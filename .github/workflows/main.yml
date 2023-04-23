@@ -17,4 +17,4 @@ jobs:
       - name: Push to hub
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-        run: git push https://TT160191:$HF_TOKEN@huggingface.co/spaces/TT160191/gpt-integrate main
+        run: git push --force https://TT160191:$HF_TOKEN@huggingface.co/spaces/TT160191/gpt-integrate main
