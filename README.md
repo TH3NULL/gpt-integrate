@@ -1,9 +1,7 @@
-title: Gpt Integrate
-emoji: 🐢
-colorFrom: red
-colorTo: purple
+title: Gpt
 sdk: streamlit
-sdk_version: 0.74.1
+emoji: 🚀
+colorFrom: indigo
+colorTo: purple
 app_file: app.py
-pinned: false
-
+pinned: true
